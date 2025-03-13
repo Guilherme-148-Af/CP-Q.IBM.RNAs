@@ -6,6 +6,8 @@ body {
     text-align: center;
     margin: 0;
     padding: 20px;
+    font-family: 'Poppins', sans-serif;
+    line-height: 1.6; /* Espaçamento entre linhas para melhor leitura */
 }
 .container {
     max-width: 800px;
@@ -24,4 +26,13 @@ ul {
 }
 a{
     color: rgb(23, 130, 223);
+}
+h1, h2 {
+    font-family: 'Poppins', sans-serif;
+    font-weight: 600;
+    color: #ffffff;
+}
+p, li {
+    font-family: 'Poppins', sans-serif;
+    font-weight: 300;
 }
